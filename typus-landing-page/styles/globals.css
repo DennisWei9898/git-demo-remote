@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Luckiest Guy' !important
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: light) {
+  html {
+    color-scheme: light;
+  }
+  body {
+    color: #000000;
+    background: #DFDFDF;
+  }
+}
+
+.test {
+  font-family: arial !important;
+}

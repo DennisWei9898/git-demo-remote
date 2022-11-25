@@ -1,0 +1,8 @@
+.Twitter {
+  height: 72px;
+  width: 72px;
+}
+
+.Twitter:hover {
+  filter: invert(14%) sepia(67%) saturate(680%) hue-rotate(160deg) brightness(33%) contrast(103%);
+}
